@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 0d2fa88fcf47ce748bef9a65644c1b49
+timeCreated: 1490600384
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip01
+    100004: Bip01 Footsteps
+    100006: Bip01 Head
+    100008: Bip01 HeadNub
+    100010: Bip01 L Calf
+    100012: Bip01 L Clavicle
+    100014: Bip01 L Finger0
+    100016: Bip01 L Finger0Nub
+    100018: Bip01 L Foot
+    100020: Bip01 L Forearm
+    100022: Bip01 L Hand
+    100024: Bip01 L Thigh
+    100026: Bip01 L Toe0
+    100028: Bip01 L Toe0Nub
+    100030: Bip01 L UpperArm
+    100032: Bip01 Neck
+    100034: Bip01 Pelvis
+    100036: Bip01 Ponytail1
+    100038: Bip01 Ponytail11
+    100040: Bip01 Ponytail12
+    100042: Bip01 Ponytail1Nub
+    100044: Bip01 Ponytail2
+    100046: Bip01 Ponytail21
+    100048: Bip01 Ponytail22
+    100050: Bip01 Ponytail2Nub
+    100052: Bip01 R Calf
+    100054: Bip01 R Clavicle
+    100056: Bip01 R Finger0
+    100058: Bip01 R Finger0Nub
+    100060: Bip01 R Foot
+    100062: Bip01 R Forearm
+    100064: Bip01 R Hand
+    100066: Bip01 R Thigh
+    100068: Bip01 R Toe0
+    100070: Bip01 R Toe0Nub
+    100072: Bip01 R UpperArm
+    100074: Bip01 Spine
+    100076: Bip01 Spine1
+    100078: Bip01 Spine2
+    100080: BODY
+    100082: Camera001
+    100084: camera_dummy
+    100086: camera_link
+    100088: Dummy001
+    100090: L_Arm01
+    100092: L_Arm02
+    100094: L_Arm03
+    100096: L_Arm04
+    100098: L_Arm05
+    100100: R_Arm01
+    100102: R_Arm02
+    100104: R_Arm03
+    100106: R_Arm04
+    100108: R_Arm05
+    400000: //RootNode
+    400002: Bip01
+    400004: Bip01 Footsteps
+    400006: Bip01 Head
+    400008: Bip01 HeadNub
+    400010: Bip01 L Calf
+    400012: Bip01 L Clavicle
+    400014: Bip01 L Finger0
+    400016: Bip01 L Finger0Nub
+    400018: Bip01 L Foot
+    400020: Bip01 L Forearm
+    400022: Bip01 L Hand
+    400024: Bip01 L Thigh
+    400026: Bip01 L Toe0
+    400028: Bip01 L Toe0Nub
+    400030: Bip01 L UpperArm
+    400032: Bip01 Neck
+    400034: Bip01 Pelvis
+    400036: Bip01 Ponytail1
+    400038: Bip01 Ponytail11
+    400040: Bip01 Ponytail12
+    400042: Bip01 Ponytail1Nub
+    400044: Bip01 Ponytail2
+    400046: Bip01 Ponytail21
+    400048: Bip01 Ponytail22
+    400050: Bip01 Ponytail2Nub
+    400052: Bip01 R Calf
+    400054: Bip01 R Clavicle
+    400056: Bip01 R Finger0
+    400058: Bip01 R Finger0Nub
+    400060: Bip01 R Foot
+    400062: Bip01 R Forearm
+    400064: Bip01 R Hand
+    400066: Bip01 R Thigh
+    400068: Bip01 R Toe0
+    400070: Bip01 R Toe0Nub
+    400072: Bip01 R UpperArm
+    400074: Bip01 Spine
+    400076: Bip01 Spine1
+    400078: Bip01 Spine2
+    400080: BODY
+    400082: Camera001
+    400084: camera_dummy
+    400086: camera_link
+    400088: Dummy001
+    400090: L_Arm01
+    400092: L_Arm02
+    400094: L_Arm03
+    400096: L_Arm04
+    400098: L_Arm05
+    400100: R_Arm01
+    400102: R_Arm02
+    400104: R_Arm03
+    400106: R_Arm04
+    400108: R_Arm05
+    2300000: camera_dummy
+    3300000: camera_dummy
+    4300000: BODY
+    4300002: camera_dummy
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: BODY
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: c862c9afd4421a04283a578a6c12c9f7
+timeCreated: 1490602599
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: Body01
+    100004: Body02
+    100006: Bone05
+    100008: Bone10
+    100010: Bone13
+    100012: Bone16
+    100014: Bone19
+    100016: Bone22
+    100018: Head
+    100020: IK Chain01
+    100022: IK Chain02
+    100024: IK Chain03
+    100026: L_Ear01
+    100028: L_Ear02
+    100030: L_Wing01
+    100032: L_Wing02
+    100034: Neck
+    100036: R_Ear01
+    100038: R_Ear02
+    100040: R_Wing01
+    100042: R_Wing02
+    100044: //RootNode
+    100046: Tail01
+    100048: Tail02
+    100050: Tail03
+    100052: Tail04
+    400000: body
+    400002: Body01
+    400004: Body02
+    400006: Bone05
+    400008: Bone10
+    400010: Bone13
+    400012: Bone16
+    400014: Bone19
+    400016: Bone22
+    400018: Head
+    400020: IK Chain01
+    400022: IK Chain02
+    400024: IK Chain03
+    400026: L_Ear01
+    400028: L_Ear02
+    400030: L_Wing01
+    400032: L_Wing02
+    400034: Neck
+    400036: R_Ear01
+    400038: R_Ear02
+    400040: R_Wing01
+    400042: R_Wing02
+    400044: //RootNode
+    400046: Tail01
+    400048: Tail02
+    400050: Tail03
+    400052: Tail04
+    4300000: body
+    7400000: stand
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: stand
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body
+        weight: 1
+      - path: Body01
+        weight: 1
+      - path: Body01/Body02
+        weight: 1
+      - path: Body01/Body02/Neck
+        weight: 1
+      - path: Body01/Body02/Neck/Head
+        weight: 1
+      - path: Body01/Body02/Neck/Head/Bone05
+        weight: 1
+      - path: Body01/Body02/Neck/Head/L_Ear01
+        weight: 1
+      - path: Body01/Body02/Neck/Head/L_Ear01/L_Ear02
+        weight: 1
+      - path: Body01/Body02/Neck/Head/L_Ear01/L_Ear02/Bone13
+        weight: 1
+      - path: Body01/Body02/Neck/Head/R_Ear01
+        weight: 1
+      - path: Body01/Body02/Neck/Head/R_Ear01/R_Ear02
+        weight: 1
+      - path: Body01/Body02/Neck/Head/R_Ear01/R_Ear02/Bone16
+        weight: 1
+      - path: Body01/L_Wing01
+        weight: 1
+      - path: Body01/L_Wing01/L_Wing02
+        weight: 1
+      - path: Body01/L_Wing01/L_Wing02/Bone19
+        weight: 1
+      - path: Body01/R_Wing01
+        weight: 1
+      - path: Body01/R_Wing01/R_Wing02
+        weight: 1
+      - path: Body01/R_Wing01/R_Wing02/Bone22
+        weight: 1
+      - path: Body01/Tail01
+        weight: 1
+      - path: Body01/Tail01/Tail02
+        weight: 1
+      - path: Body01/Tail01/Tail02/Tail03
+        weight: 1
+      - path: Body01/Tail01/Tail02/Tail03/Tail04
+        weight: 1
+      - path: Body01/Tail01/Tail02/Tail03/Tail04/Bone10
+        weight: 1
+      - path: IK Chain01
+        weight: 1
+      - path: IK Chain02
+        weight: 1
+      - path: IK Chain03
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

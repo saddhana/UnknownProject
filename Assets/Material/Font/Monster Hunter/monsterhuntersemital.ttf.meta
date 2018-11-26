@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5a331a5356a41f94fbac6c7f86359d12
+timeCreated: 1527639394
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Monster Hunter Semi-Italic
+  fontNames:
+  - Monster Hunter Semi-Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
